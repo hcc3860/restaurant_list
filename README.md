@@ -18,4 +18,18 @@ Express-handlebars: v5.1.0
 
 Clone repository to your local computer
 
-\$ git clone https://github.com/ShihTingJustin/FeedYourSoul.git
+```
+$ git clone https://github.com/hcc3860/restaurant_list.git
+```
+
+While entering the directory of this project, kick start the server on your terminal by the command as follows
+
+```
+nodemon app.js
+```
+
+Open the browser and try this address
+
+```
+http://localhost:3000
+```
